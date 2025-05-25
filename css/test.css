@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: monospace;
+}
+
+.test {
+    margin-top: 15%;
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+}
+
+.picture {
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    cursor: pointer;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    height: 5vh;
+}
